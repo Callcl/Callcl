@@ -12,7 +12,7 @@
 ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=plastic&logo=godot-engine&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
-<!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) --> -->
+<!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LachlanCallcott&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
