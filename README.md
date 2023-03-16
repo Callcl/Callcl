@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Making my portfolio and trying to network <br>🌱 I’m currently learning HTML, CSS and JAVA<br>💬 Ask me about <br>⚡ Fun fact, before stating my Software Development journey I was a Electrician
+🔭 I’m currently working on Making my portfolio and trying to network <br>🌱 I’m currently learning HTML, CSS and JAVA<br>⚡ Fun fact, before stating my Software Development journey I was a Electrician
 
 
 ## 🌐 Socials:
